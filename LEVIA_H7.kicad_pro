@@ -527,7 +527,7 @@
       },
       {
         "name": "I2C",
-        "pcb_color": "rgb(255, 255, 0)",
+        "pcb_color": "rgb(255, 153, 0)",
         "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""

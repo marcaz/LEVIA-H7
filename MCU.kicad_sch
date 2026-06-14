@@ -16291,7 +16291,7 @@
 		)
 		(uuid "62b17e44-e5ab-4d98-97d9-4cd5bac9f3cd")
 	)
-	(label "ADC_VBAT1"
+	(label "ADC1_VBAT1"
 		(at 87.63 33.02 180)
 		(effects
 			(font
