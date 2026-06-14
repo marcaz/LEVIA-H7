@@ -2151,7 +2151,7 @@
 			(uuid "25f60448-4349-4ca5-8e99-528358258e53")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "#PWR027")
 					(unit 1)
@@ -2230,7 +2230,7 @@
 			(uuid "68676032-a0af-4c1f-97f4-64b77e9a3099")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "R12")
 					(unit 1)
@@ -2309,7 +2309,7 @@
 			(uuid "0581ecaf-1701-4d59-83d1-0446bfd39cc6")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "R14")
 					(unit 1)
@@ -2388,7 +2388,7 @@
 			(uuid "9e30a433-bb49-4c38-b613-a177042d0b57")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "R15")
 					(unit 1)
@@ -2464,7 +2464,7 @@
 			)
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "#SYM12")
 					(unit 1)
@@ -2542,7 +2542,7 @@
 			(uuid "650e7237-a7d8-40f8-a8c6-2344c9ed374d")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "#PWR089")
 					(unit 1)
@@ -2621,7 +2621,7 @@
 			(uuid "f8d55dc5-fbdd-47b6-839a-26e4512cc749")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "R13")
 					(unit 1)
@@ -2760,7 +2760,7 @@
 			(uuid "b0fbab44-2cb3-454f-9c1a-6dc190e6648e")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/647d5d7a-ea7f-42b5-bbeb-8045c387a5e2"
 					(reference "U4")
 					(unit 1)

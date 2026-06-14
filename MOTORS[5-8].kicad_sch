@@ -2162,7 +2162,7 @@
 			(uuid "adbc74b7-8663-49d3-9275-84cc33d9e640")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "R37")
 					(unit 1)
@@ -2301,7 +2301,7 @@
 			(uuid "aef95ace-ddaa-428c-9f9f-3ec200920863")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "U12")
 					(unit 1)
@@ -2377,7 +2377,7 @@
 			)
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "#SYM13")
 					(unit 1)
@@ -2456,7 +2456,7 @@
 			(uuid "7d929602-b192-40d7-bcb9-85ee450e1628")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "R29")
 					(unit 1)
@@ -2534,7 +2534,7 @@
 			(uuid "8e7593c3-bdcc-4d34-8380-77906ce40730")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "#PWR028")
 					(unit 1)
@@ -2613,7 +2613,7 @@
 			(uuid "92e89ee0-1034-4b39-8999-b64254cbc4dd")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "R35")
 					(unit 1)
@@ -2692,7 +2692,7 @@
 			(uuid "b189ab09-ddf6-4471-924f-7a3e962e00b7")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "R36")
 					(unit 1)
@@ -2770,7 +2770,7 @@
 			(uuid "93c93107-da7e-4163-84b7-5440b4f2d8d5")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/8ca90a2c-e0e4-42bc-a785-b72a7bf551d7"
 					(reference "#PWR092")
 					(unit 1)

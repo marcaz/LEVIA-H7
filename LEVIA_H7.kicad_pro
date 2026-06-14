@@ -28,9 +28,9 @@
         },
         "fab_line_width": 0.1,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
-        "fab_text_thickness": 0.15,
+        "fab_text_size_h": 0.35,
+        "fab_text_size_v": 0.35,
+        "fab_text_thickness": 0.05,
         "fab_text_upright": false,
         "other_line_width": 0.1,
         "other_text_italic": false,
@@ -45,8 +45,8 @@
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
+        "silk_text_size_h": 0.8,
+        "silk_text_size_v": 0.8,
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
@@ -69,7 +69,13 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -203,7 +209,9 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -230,7 +238,12 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -488,7 +501,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LEVIA H7.kicad_pro",
+    "filename": "LEVIA_H7.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -677,18 +690,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "LEVIA H7.kicad_sch",
-        "name": "LEVIA H7",
+        "filename": "LEVIA_H7.kicad_sch",
+        "name": "LEVIA_H7",
         "uuid": "6b768b36-fce6-4be0-9021-6d41bddc3a70"
       }
     ],
-    "used_designators": "",
+    "used_designators": "TP1-2,U1-23,C1-54,SW1,H1-4,R1-49,JP1,Q1,Y1-2,#PWR1-121,#PWR134-137,D1-4,J1,#SYM1-13,USB1,L1-2",
     "variants": []
   },
   "sheets": [
     [
       "6b768b36-fce6-4be0-9021-6d41bddc3a70",
-      "LEVIA H7"
+      "LEVIA_H7"
     ],
     [
       "020f93d0-ab76-4c08-9373-958d923a454f",

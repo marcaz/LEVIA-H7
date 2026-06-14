@@ -2068,7 +2068,7 @@
 			(uuid "fc99f863-3647-4e40-818a-8d3c265e3b77")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "#PWR0128")
 					(unit 1)
@@ -2148,7 +2148,7 @@
 			(uuid "4ed3b419-3c2b-4d52-b351-89d8ad5b51b7")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "R44")
 					(unit 1)
@@ -2226,7 +2226,7 @@
 			(uuid "924cbdd1-1bc3-440a-b9b7-fdf6b8790787")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "#PWR085")
 					(unit 1)
@@ -2305,7 +2305,7 @@
 			(uuid "916fbb7e-aa7f-4c39-8530-258997019165")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "R32")
 					(unit 1)
@@ -2383,7 +2383,7 @@
 			(uuid "3242620e-be9f-4c88-9172-8819c89d0979")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "#PWR062")
 					(unit 1)
@@ -2471,7 +2471,7 @@
 			(uuid "08a69d36-f62b-4d7c-8de3-28d84cd7b969")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "Q1")
 					(unit 1)
@@ -2547,7 +2547,7 @@
 			)
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "#SYM10")
 					(unit 1)
@@ -2671,7 +2671,7 @@
 			(uuid "50f3fa62-7f12-4782-a4be-f82a099010bb")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/40acc3ff-a355-41ce-95b6-fe5d468e4bb9"
 					(reference "U10")
 					(unit 1)

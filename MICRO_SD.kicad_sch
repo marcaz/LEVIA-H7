@@ -2614,7 +2614,7 @@
 			(uuid "d09c1051-b886-4998-94a5-2645f380c0d2")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R8")
 					(unit 1)
@@ -2693,7 +2693,7 @@
 			(uuid "4aab188c-0041-4174-ac92-ff3c13bc566c")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R7")
 					(unit 1)
@@ -2772,7 +2772,7 @@
 			(uuid "e62a15b3-655f-4814-8100-15c5eb8b381a")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R4")
 					(unit 1)
@@ -2850,7 +2850,7 @@
 			(uuid "21f06816-70e6-4c7f-85de-0a2833206647")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "#PWR021")
 					(unit 1)
@@ -2929,7 +2929,7 @@
 			(uuid "8fd682ce-4873-45bf-a296-ee59e05cb1db")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R6")
 					(unit 1)
@@ -3008,7 +3008,7 @@
 			(uuid "c33fc14a-320f-4d0c-b5f5-9e926bc31147")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R5")
 					(unit 1)
@@ -3089,7 +3089,7 @@
 			(uuid "95310020-c693-49ec-8092-331813c1496d")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "C14")
 					(unit 1)
@@ -3227,7 +3227,7 @@
 			(uuid "9baf8905-3373-4538-8a2d-3f56a6e5c6de")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "J15")
 					(unit 1)
@@ -3308,7 +3308,7 @@
 			(uuid "436e6f17-247c-499f-bcae-eb2df0c0c98b")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "C13")
 					(unit 1)
@@ -3384,7 +3384,7 @@
 			)
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "#SYM11")
 					(unit 1)
@@ -3463,7 +3463,7 @@
 			(uuid "54f41ea2-837a-45d3-a061-8c07b34dea2a")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "R9")
 					(unit 1)
@@ -3541,7 +3541,7 @@
 			(uuid "897a550f-690f-4e6b-b5c9-592164ee62c7")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "#PWR020")
 					(unit 1)
@@ -3619,7 +3619,7 @@
 			(uuid "6ffae68f-672a-4831-acad-8f83bb74f9dc")
 		)
 		(instances
-			(project "LEVIA H7"
+			(project "LEVIA_H7"
 				(path "/6b768b36-fce6-4be0-9021-6d41bddc3a70/f6fdd950-a71d-4aac-93a8-c5aad57c018b"
 					(reference "#PWR032")
 					(unit 1)
