@@ -557,7 +557,15 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
+    "net_colors": {
+      "+3V3_MCU": "rgb(0, 255, 0)",
+      "+3V3_SENS": "rgb(0, 255, 255)",
+      "+5V": "rgb(255, 153, 0)",
+      "+5V_SYS": "rgb(205, 107, 255)",
+      "+9V": "rgb(255, 255, 0)",
+      "GND": "rgb(72, 72, 72)",
+      "VBAT": "rgb(255, 0, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {

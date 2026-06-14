@@ -5404,7 +5404,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "XL2EL89COI-111YLC-27M"
+		(property "Value" "XL7EL89COI-111YLC-27M"
 			(at 93.98 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5415,7 +5415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "EasyEDA:CRYSTAL-SMD_4P-L3.2-W2.5-BL_SIT8008BI"
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm"
 			(at 86.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5426,7 +5426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/C5444553.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C18214311.pdf"
 			(at 86.36 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5459,7 +5459,7 @@
 				)
 			)
 		)
-		(property "MPN" "XL2EL89COI-111YLC-27M"
+		(property "MPN" "XL7EL89COI-111YLC-27M"
 			(at 68.58 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5470,7 +5470,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C5444553"
+		(property "LCSC Part" "C18214311"
 			(at 66.04 74.93 0)
 			(hide yes)
 			(show_name no)
