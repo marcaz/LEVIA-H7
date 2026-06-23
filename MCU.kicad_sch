@@ -8547,8 +8547,16 @@
 		(uuid "7d0ef2b6-3f02-455c-bd9a-ee83394d9483")
 	)
 	(no_connect
+		(at 115.57 41.91)
+		(uuid "7fd73c06-5a94-48b1-af39-6b1c5cf94e47")
+	)
+	(no_connect
 		(at 173.99 146.05)
 		(uuid "b15dcb78-8231-4e18-a87b-d3ed5c22025f")
+	)
+	(no_connect
+		(at 189.23 36.83)
+		(uuid "bcb361f7-e2b7-4341-9d47-940a6d92d4cb")
 	)
 	(no_connect
 		(at 115.57 31.75)
