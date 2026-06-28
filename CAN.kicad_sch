@@ -3530,6 +3530,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1525"
+			(at 69.85 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d5558e07-d7fb-462b-820b-9283905cd031")
 		)
@@ -3552,9 +3563,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0b008a6b-39a8-4459-af8d-66d990367fb0")
 		(property "Reference" "JP1"
 			(at 124.46 68.58 90)
@@ -4079,6 +4090,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C1525"
+			(at 64.77 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "79df5059-f241-45c5-9a83-fe2f65e465ae")
 		)
@@ -4537,6 +4559,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 120.65 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25079"
 			(at 120.65 62.23 0)
 			(hide yes)
 			(show_name no)

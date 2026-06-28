@@ -2340,10 +2340,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "01c14401-3bbd-486b-b86a-c7bb39253bde")
 		(property "Reference" "TP5"
 			(at 88.9 78.74 90)
@@ -2553,6 +2553,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 78.74 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "48dddba6-5e3c-4494-856e-750d14e313d0")
 		)
@@ -2574,10 +2585,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "21da52b2-68c4-495c-99aa-6a04a8445b6e")
 		(property "Reference" "TP9"
 			(at 107.95 50.8 90)
@@ -2709,6 +2720,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 78.74 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4dd38d61-5668-4ab8-903a-d7fecb0bc027")
 		)
@@ -2788,6 +2810,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 78.74 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "907225bd-b686-46df-bb99-a0449f1d7d19")
 		)
@@ -2809,10 +2842,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5d3cc946-63e4-4681-a1ad-535a2606b363")
 		(property "Reference" "TP3"
 			(at 95.25 55.88 90)
@@ -2886,10 +2919,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "907c05d7-c8bf-48b2-9315-19501844500e")
 		(property "Reference" "TP4"
 			(at 95.25 58.42 90)
@@ -2963,10 +2996,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "97dd5a2f-92fd-459c-923c-6868d73f1d36")
 		(property "Reference" "TP7"
 			(at 93.98 78.74 90)
@@ -3040,10 +3073,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9e1673f2-0bb7-4913-a1e7-7cf7e4c3da6d")
 		(property "Reference" "TP10"
 			(at 107.95 74.93 90)
@@ -3329,6 +3362,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 78.74 63.5 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fce2445f-fd29-42e0-92b3-845a51d53fc5")
 		)
@@ -3489,10 +3533,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f3ad2339-a90d-46bd-b6f5-0432bc35d58d")
 		(property "Reference" "TP8"
 			(at 96.52 78.74 90)
@@ -3566,10 +3610,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f922737e-9ecd-456c-b41d-2e44bd9fc8f4")
 		(property "Reference" "TP6"
 			(at 91.44 78.74 90)

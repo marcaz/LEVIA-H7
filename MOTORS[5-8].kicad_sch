@@ -2314,10 +2314,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1d40aabe-6ae5-4f25-91c2-d5d8e672c888")
 		(property "Reference" "TP16"
 			(at 104.14 52.07 90)
@@ -2391,10 +2391,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "23cf4c50-2821-4f41-9fd7-3ede45b0c708")
 		(property "Reference" "TP14"
 			(at 90.17 80.01 90)
@@ -2468,10 +2468,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "246543f9-8994-4d04-8ae3-d0cb82feb143")
 		(property "Reference" "TP17"
 			(at 104.14 76.2 90)
@@ -2594,6 +2594,17 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 73.66 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C25077"
+			(at 73.66 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2763,10 +2774,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "3a119aaa-cab4-4a10-a918-f5f03a7d8713")
 		(property "Reference" "TP19"
 			(at 91.44 57.15 90)
@@ -2974,6 +2985,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 73.66 62.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "44a7afa6-9b9d-427c-bef6-ab2d890f7f15")
 		)
@@ -2995,10 +3017,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "872660ca-f4c2-48f6-b74f-15bffb4126ca")
 		(property "Reference" "TP15"
 			(at 92.71 80.01 90)
@@ -3072,10 +3094,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9a4295c1-52c1-40b7-a796-551871ba6bc9")
 		(property "Reference" "TP18"
 			(at 91.44 59.69 90)
@@ -3149,10 +3171,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a5e7bff2-c772-465b-85f4-d43e5ef048dd")
 		(property "Reference" "TP13"
 			(at 87.63 80.01 90)
@@ -3362,6 +3384,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 73.66 64.77 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "567712da-d5f8-4de5-9463-6ac7e3342a6a")
 		)
@@ -3441,6 +3474,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25077"
+			(at 73.66 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8246d8eb-b2d9-4d0a-8b30-43cb0e5094d6")
 		)
@@ -3462,10 +3506,10 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e4298cef-3c00-462b-8d48-94fa24dff601")
 		(property "Reference" "TP12"
 			(at 85.09 80.01 90)

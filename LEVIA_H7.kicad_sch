@@ -3449,6 +3449,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25905"
+			(at 72.39 45.72 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2be29753-b03d-46f0-885d-8770e2a2976a")
 		)
@@ -3528,6 +3539,17 @@
 				)
 			)
 		)
+		(property "LCSC Part" "C25905"
+			(at 72.39 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2f4b1d0b-1dd3-4524-8699-88e4f59611a0")
 		)
@@ -3550,9 +3572,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7e717dad-2f01-4ac9-934a-eaa7ae426bae")
 		(property "Reference" "H2"
@@ -3863,9 +3885,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d07af25e-7faf-4cf6-865d-4262e58231ab")
 		(property "Reference" "H1"
@@ -3943,9 +3965,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d25b2ad3-ed76-4039-b77f-6d5f5359ca6a")
 		(property "Reference" "H3"
@@ -4322,9 +4344,9 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom no)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files no)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f38529e5-b1a4-42bd-9354-b44010417a33")
 		(property "Reference" "H4"
