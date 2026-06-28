@@ -62,11 +62,11 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.152,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 2,
+          "min_thickness": 0.2,
+          "pad_connection": 1,
           "remove_islands": 0,
-          "thermal_relief_gap": 0.5,
-          "thermal_relief_spoke_width": 0.5
+          "thermal_relief_gap": 0.2,
+          "thermal_relief_spoke_width": 0.45
         }
       },
       "diff_pair_dimensions": [
@@ -608,11 +608,16 @@
         "tuning_profile": ""
       },
       {
+        "clearance": 0.148,
+        "diff_pair_gap": 0.2451,
+        "diff_pair_width": 0.2037,
         "name": "USB",
         "pcb_color": "rgb(0, 255, 0)",
         "priority": 4,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "tuning_profile": ""
+        "tuning_profile": "",
+        "via_diameter": 0.01016,
+        "via_drill": 0.00635
       }
     ],
     "meta": {
